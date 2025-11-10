@@ -1,7 +1,6 @@
 # 👋 Hi, I’m John Danekind!
 
-Welcome to my GitHub profile! I’m a recent Computer Science graduate from the University of Colorado Boulder with a strong passion for Artificial Intelligence, Full-Stack Development, and Data Science. I 
-I specialize in building practical, impactful software systems—from AI-powered research tools to interpretable medical image classifiers.
+Welcome to my GitHub profile! I’m a recent Computer Science graduate from the University of Colorado Boulder with a strong passion for Artificial Intelligence, Full-Stack Development, and Data Science. I love building practical, impactful software systems—from AI-powered research tools to interpretable medical image classifiers.
 
 ---
 
